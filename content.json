@@ -1,0 +1,15 @@
+[
+  {"id":"m1","category":"Music","type":"audio","title":"Sample song","artist":"Artist Name","duration":"3:10","thumb":"thumbs/song.jpg","mp3":"media/song.mp3","mp3MB":2.9},
+  {"id":"m2","category":"Music","type":"video","title":"Sample music video","artist":"Artist Name","duration":"3:45","thumb":"thumbs/mv.jpg",
+   "low":"media/mv-360p.mp4","lowMB":8,"mid":"media/mv-480p.mp4","midMB":14,"high":"media/mv-720p.mp4","highMB":25,"mp3":"media/mv.mp3","mp3MB":3.4},
+  {"id":"mv1","category":"Movies","type":"video","title":"Sample movie","artist":"Studio Name","duration":"1:32:00","thumb":"thumbs/movie.jpg",
+   "low":"media/movie-360p.mp4","lowMB":90,"mid":"media/movie-480p.mp4","midMB":160,"high":"media/movie-720p.mp4","highMB":290},
+  {"id":"s1","category":"Series","type":"video","title":"Sample series","artist":"Production Name","thumb":"thumbs/series.jpg",
+   "episodes":[
+     {"title":"Episode 1","duration":"24:00","low":"media/s1e1-360p.mp4","lowMB":30,"mid":"media/s1e1-480p.mp4","midMB":52,"high":"media/s1e1-720p.mp4","highMB":95},
+     {"title":"Episode 2","duration":"23:10","low":"media/s1e2-360p.mp4","lowMB":29,"high":"media/s1e2-720p.mp4","highMB":92}
+   ]},
+  {"id":"c1","category":"Comedy","type":"video","title":"Sample comedy skit","artist":"Comedian Name","duration":"6:20","thumb":"thumbs/comedy.jpg",
+   "low":"media/skit-360p.mp4","lowMB":12,"high":"media/skit-720p.mp4","highMB":38},
+  {"id":"g1","category":"Gospel","type":"audio","title":"Sample gospel song","artist":"Choir Name","duration":"4:02","mp3":"media/gospel.mp3","mp3MB":3.1}
+]
